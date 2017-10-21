@@ -1,6 +1,9 @@
 # Simple Flask Todo API
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+This is a simple api for a todo list app. It contains basic CRUD operations and handles user authorization.
+
+| Method | Endpoint | Result |
+| --- | --- | --- |
+| GET | /user | all users |
+| GET | /user/<public_id> | single user by users `public_id` |
+
