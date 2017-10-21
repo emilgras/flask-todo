@@ -11,7 +11,7 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 | POST | /register | creates a new user with no access token |
 
 
-### Admin
+### Admin routes
 
 | Method | Endpoint | Description | Parameters | Result |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 | DELETE | /user/<public_id> | deletes a user | `public_id` | --- |
 
 
-### Todo
+### Todo routes
 
 | Method | Endpoint | Description | Parameters | Result |
 | --- | --- | --- | --- | --- |
