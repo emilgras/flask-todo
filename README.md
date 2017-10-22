@@ -21,7 +21,15 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 
 * To exit the python interpreter type `exit()` then hit enter
 
-* (optional) 
+* (optional) `sqlite3` to open up sqlite command line
+
+* (optional) `.tables` to show a list of tables. You should see `todo` and `user` printed
+
+* (optional) `.exit` to exit the sqlite command line
+
+* `python api.py` to start the app. 
+
+* Try it out using Postman or similar software
 
 
 #### Authentication
