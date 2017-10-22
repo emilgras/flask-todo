@@ -32,7 +32,7 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 * Try it out using Postman or similar software
 
 
-#### Authentication
+#### Authentication routes
 
 | Method | Endpoint | Description |
 | --- | --- | --- |
