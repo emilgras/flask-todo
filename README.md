@@ -13,7 +13,7 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 
 * `pip install -r requirements.txt`
 
-* In the terminal type `python` and hit enter to open the Python interpreter
+* In the terminal type `python` and hit enter to start the Python interpreter
 
 * Now type `from api import db` and hit enter
 
