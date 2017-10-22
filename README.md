@@ -5,7 +5,7 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 
 #### Running the project
 
-* `cd your/favorite/path/here`
+* `cd to/your/favorite/path`
 
 * `git clone https://github.com/emilgras/simple-flask-auth.git`
 
