@@ -7,7 +7,21 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 
 * `cd your/favorite/path/here`
 
-* `git clone `
+* `git clone https://github.com/emilgras/simple-flask-auth.git`
+
+* `cd simple-flask-auth`
+
+* `pip install -r requirements.txt`
+
+* In the terminal type `python` and hit enter to open the Python interpreter
+
+* Now type `from api import db` and hit enter
+
+* finally type `db.create_all()` hit enter
+
+* To exit the python interpreter type `exit()` then hit enter
+
+* (optional) 
 
 
 #### Authentication
