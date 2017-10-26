@@ -84,6 +84,7 @@ $ python api.py
 Authentication routes
 
 | Method | Endpoint | Description |
+| hej |
 | --- | --- | --- |
 | POST | /login | log's in a user |
 | POST | /register | creates a new user with no access token |
