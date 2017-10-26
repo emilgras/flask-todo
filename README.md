@@ -2,6 +2,36 @@
 
 This is a simple api for a todo list app. It contains basic CRUD operations and handles user authentication and authorization.
 
+### Install
+
+'''python
+
+cd to/your/favorite/path
+
+git clone https://github.com/emilgras/simple-flask-auth.git
+
+cd simple-flask-aut
+
+'''
+
+create your local virtual environment
+
+'''python
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+'''
+
+Install dependencies from `requirements.txt`
+
+'''python
+
+pip install -r requirements.txt
+
+'''
+
 
 #### Running the project
 
