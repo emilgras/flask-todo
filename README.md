@@ -76,7 +76,6 @@ Start the application
 $ python api.py
 
 ```
-</br>
 
 #### Authentication routes
 
