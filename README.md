@@ -17,7 +17,7 @@ $ cd simple-flask-aut
 
 ```
 
-create your local virtual environment
+create and activate a local virtual environment
 
 ```sh
 
