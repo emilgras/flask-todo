@@ -7,7 +7,7 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 
 clone the repository
 
-```python
+```sh
 
 cd to/your/favorite/path
 
@@ -19,7 +19,7 @@ cd simple-flask-aut
 
 create your local virtual environment
 
-```python
+```sh
 
 python3 -m venv venv
 
@@ -29,7 +29,7 @@ source venv/bin/activate
 
 Install dependencies from `requirements.txt`
 
-```python
+```sh
 
 pip install -r requirements.txt
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 Start the python interpreter and create the database
 
-```python
+```sh
 
 $ python
 
@@ -54,7 +54,7 @@ $ python
 
 (optional) Start the sqlite3 command line and verify that 2 tables has been created `user` & `todo`
 
-```python
+```sh
 
 $ sqlite3
 
@@ -64,14 +64,14 @@ $ sqlite3
 
 Exit the sqlite command line
 
-```python
+```sh
 
 >>> .exit
 
 ```
 Start the application 
 
-```python
+```sh
 
 $ python api.py
 
