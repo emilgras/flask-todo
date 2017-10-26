@@ -76,27 +76,7 @@ Start the application
 $ python api.py
 
 ```
-
-
-* In the terminal type `python` and hit enter to start the Python interpreter
-
-* Now type `from api import db` and hit enter
-
-* finally type `db.create_all()` hit enter
-
-* To exit the python interpreter type `exit()` then hit enter
-
-* (optional) `sqlite3` to open up sqlite command line
-
-* (optional) `.tables` to show a list of tables. You should see `todo` and `user` printed
-
-* (optional) `.exit` to exit the sqlite command line
-
-* `python api.py` to start the app. 
-
-* Try it out using Postman or similar software
 </br>
-
 
 #### Authentication routes
 
