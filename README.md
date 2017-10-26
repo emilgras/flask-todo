@@ -38,6 +38,46 @@ pip install -r requirements.txt
 
 ## Running the project
 
+Start the python interpreter and create the database
+
+```python
+
+$ python
+
+>>> from api import db
+
+>>> db.create_all()
+
+>>> exit()
+
+```
+
+(optional) Start the sqlite3 command line and verify that 2 tables has been created `user` & `todo`
+
+```python
+
+$ sqlite3
+
+>>> .tables
+
+```
+
+Exit the sqlite command line
+
+```python
+
+>>> .exit
+
+```
+Start the application 
+
+```python
+
+$ python api.py
+
+```
+
+
 * In the terminal type `python` and hit enter to start the Python interpreter
 
 * Now type `from api import db` and hit enter
