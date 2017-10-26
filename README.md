@@ -2,6 +2,7 @@
 
 This is a simple api for a todo list app. It contains basic CRUD operations and handles user authentication and authorization.
 </br>
+</br>
 
 ## Installation
 
@@ -34,7 +35,8 @@ Install dependencies from `requirements.txt`
 $ pip install -r requirements.txt
 
 ```
-
+</br>
+</br>
 
 ## Running the project
 
@@ -76,6 +78,8 @@ Start the application
 $ python api.py
 
 ```
+</br>
+</br>
 
 ## Endpoints
 
@@ -85,7 +89,8 @@ Authentication routes
 | --- | --- | --- |
 | POST | /login | log's in a user |
 | POST | /register | creates a new user with no access token |
-
+</br>
+</br>
 
 Admin routes
 
@@ -95,7 +100,8 @@ Admin routes
 | GET | /user/<public_id> | get a single user | `public_id` | single user |
 | PUT | /user/<public_id> | promote user to admin | `public_id` | --- |
 | DELETE | /user/<public_id> | deletes a user | `public_id` | --- |
-
+</br>
+</br>
 
 Todo routes
 
