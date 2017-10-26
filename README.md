@@ -4,6 +4,8 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 
 ## Installation
 
+clone the repository
+
 ```python
 
 cd to/your/favorite/path
