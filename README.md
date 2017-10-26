@@ -9,11 +9,11 @@ clone the repository
 
 ```sh
 
-cd to/your/favorite/path
+$ cd to/your/favorite/path
 
-git clone https://github.com/emilgras/simple-flask-auth.git
+$ git clone https://github.com/emilgras/simple-flask-auth.git
 
-cd simple-flask-aut
+$ cd simple-flask-aut
 
 ```
 
@@ -21,9 +21,9 @@ create your local virtual environment
 
 ```sh
 
-python3 -m venv venv
+$ python3 -m venv venv
 
-source venv/bin/activate
+$ source venv/bin/activate
 
 ```
 
@@ -31,7 +31,7 @@ Install dependencies from `requirements.txt`
 
 ```sh
 
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 
 ```
 
