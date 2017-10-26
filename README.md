@@ -32,7 +32,7 @@ Install dependencies from `requirements.txt`
 
 ```sh
 
-$ pip install -r requirements.txt
+(venv) $ pip install -r requirements.txt
 
 ```
 </br>
@@ -43,7 +43,7 @@ Start the python interpreter and create the database
 
 ```sh
 
-$ python
+(venv) $ python
 
 >>> from api import db
 
@@ -57,7 +57,7 @@ $ python
 
 ```sh
 
-$ sqlite3
+(venv) $ sqlite3
 
 >>> .tables
 
@@ -74,7 +74,7 @@ Start the application
 
 ```sh
 
-$ python api.py
+(venv) $ python api.py
 
 ```
 </br>
