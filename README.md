@@ -2,7 +2,7 @@
 
 This is a simple api for a todo list app. It contains basic CRUD operations and handles user authentication and authorization.
 
-### Install
+## Installation
 
 ```python
 
@@ -31,17 +31,9 @@ Install dependencies from `requirements.txt`
 pip install -r requirements.txt
 
 ```
+</br>
 
-
-#### Running the project
-
-* `cd to/your/favorite/path`
-
-* `git clone https://github.com/emilgras/simple-flask-auth.git`
-
-* `cd simple-flask-auth`
-
-* `pip install -r requirements.txt`
+## Running the project
 
 * In the terminal type `python` and hit enter to start the Python interpreter
 
@@ -60,6 +52,7 @@ pip install -r requirements.txt
 * `python api.py` to start the app. 
 
 * Try it out using Postman or similar software
+</br>
 
 
 #### Authentication routes
