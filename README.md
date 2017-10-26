@@ -82,9 +82,9 @@ $ python api.py
 ## Endpoints
 
 Authentication routes
-
-| Method | Endpoint | Description |
 | hej |
+| --- |
+| Method | Endpoint | Description |
 | --- | --- | --- |
 | POST | /login | log's in a user |
 | POST | /register | creates a new user with no access token |
