@@ -4,7 +4,7 @@ This is a simple api for a todo list app. It contains basic CRUD operations and 
 
 ### Install
 
-'''python
+''' python
 
 cd to/your/favorite/path
 
@@ -16,7 +16,7 @@ cd simple-flask-aut
 
 create your local virtual environment
 
-'''python
+''' python
 
 python3 -m venv venv
 
@@ -26,7 +26,7 @@ source venv/bin/activate
 
 Install dependencies from `requirements.txt`
 
-'''python
+''' python
 
 pip install -r requirements.txt
 
