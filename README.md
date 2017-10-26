@@ -77,7 +77,9 @@ $ python api.py
 
 ```
 
-#### Authentication routes
+## Endpoints
+
+Authentication routes
 
 | Method | Endpoint | Description |
 | --- | --- | --- |
@@ -85,7 +87,7 @@ $ python api.py
 | POST | /register | creates a new user with no access token |
 
 
-#### Admin routes
+Admin routes
 
 | Method | Endpoint | Description | Parameters | Result |
 | --- | --- | --- | --- | --- |
@@ -95,7 +97,7 @@ $ python api.py
 | DELETE | /user/<public_id> | deletes a user | `public_id` | --- |
 
 
-#### Todo routes
+Todo routes
 
 | Method | Endpoint | Description | Parameters | Result |
 | --- | --- | --- | --- | --- |
