@@ -1,6 +1,7 @@
 # Simple Flask Todo API
 
 This is a simple api for a todo list app. It contains basic CRUD operations and handles user authentication and authorization.
+</br>
 
 ## Installation
 
