@@ -1,6 +1,6 @@
 # Simple Flask Todo API
 
-This is a simple api for a todo list app. It contains basic CRUD operations and handles user authentication and authorization.
+This is a description of the complete API.
 </br>
 </br>
 
@@ -39,44 +39,7 @@ Install dependencies from `requirements.txt`
 
 ## Running the project
 
-Start the python interpreter and create the database
-
-```sh
-
-(venv) $ python
-
->>> from api import db
-
->>> db.create_all()
-
->>> exit()
-
-```
-
-(optional) Start the sqlite3 command line and verify that 2 tables has been created `user` & `todo`
-
-```sh
-
-(venv) $ sqlite3
-
->>> .tables
-
-```
-
-Exit the sqlite command line
-
-```sh
-
->>> .exit
-
-```
-Start the application 
-
-```sh
-
-(venv) $ python api.py
-
-```
+tralalala
 </br>
 
 ## Endpoints
