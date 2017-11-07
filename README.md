@@ -48,7 +48,7 @@ Create the database
 
 ```python
 
->>> from api impot db
+>>> from api import db
 >>> db.create_all()
 
 ```
