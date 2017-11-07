@@ -54,10 +54,6 @@ Create the database
 ```
 </br>
 
-## Running the project
-
-tralalala
-</br>
 
 ## Endpoints
 
