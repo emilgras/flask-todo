@@ -37,6 +37,17 @@ Install dependencies from `requirements.txt`
 ```
 </br>
 
+Create the database
+
+```sh
+
+(venv) $ python3
+>>> from api impot db
+>>> db.create_all()
+
+```
+</br>
+
 ## Running the project
 
 tralalala
