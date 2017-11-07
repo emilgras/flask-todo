@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 
 app.config['SECRET_KEY'] = 'thisissecret'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////Users/emilgras/Desktop/simple-flask-auth/todo.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////Users/emilgras/Desktop/flask-todo/todo.db'
 
 
 db = SQLAlchemy(app)
@@ -60,8 +60,8 @@ def token_required(f):
 
 
 @app.route('/user', methods=['GET'])
-@token_required
-def get_all_users(current_user):
+#@token_required
+def get_all_users():
 
 	# if not current_user.admin:
 	# 	return jsonify({'message' : "Missing privileges. Admin's only"})

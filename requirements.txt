@@ -1,7 +1,15 @@
+cffi==1.11.2
 click==6.7
+cryptography==1.7.2
 Flask==0.12.2
 Flask-SQLAlchemy==2.3.2
+idna==2.6
 itsdangerous==0.24
 Jinja2==2.9.6
+jwt==0.5.2
 MarkupSafe==1.0
+pyasn1==0.3.7
+pycparser==2.18
+six==1.11.0
+SQLAlchemy==1.1.15
 Werkzeug==0.12.2
