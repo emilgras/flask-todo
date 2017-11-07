@@ -46,7 +46,6 @@ Create the database
 >>> db.create_all()
 
 ```
-</br>
 
 ## Running the project
 
