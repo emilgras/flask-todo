@@ -35,17 +35,24 @@ Install dependencies from `requirements.txt`
 (venv) $ pip install -r requirements.txt
 
 ```
-</br>
 
-Create the database
+Enter the Python interpreter
 
 ```sh
 
 (venv) $ python3
+
+```
+
+Create the database
+
+```python
+
 >>> from api impot db
 >>> db.create_all()
 
 ```
+</br>
 
 ## Running the project
 
